@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+body {
+    font-family: 'Kumbh Sans',sans-serif;  
+    color: white;
+    font-size: 25px;
+    background-color: black;
+}
+
+button{
+    font-family: 'Kumbh Sans',sans-serif;
+    line-height: 25px;
+    background-color: tomato;
+}
+
+head {
+    font-family: 'Kumbh Sans', sans-serif;
+    color: white;
+    background-color: blue;
+}
+
+.Weight-Container{
+    padding: 75px;
+}
+
+.answer{
+    padding: 50px;
+}
